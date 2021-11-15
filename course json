@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "id": "4137",
+            "parent_exercise_id": null,
+            "name": "Assessments",
+            "slug": "Grammar-101__Assessments_md",
+            "sequence_num": 0,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/Grammar-101/Assessments.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4138",
+            "parent_exercise_id": null,
+            "name": "exercises",
+            "slug": "Grammar-101__exercises_md",
+            "sequence_num": 100,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/Grammar-101/exercises.md",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}
